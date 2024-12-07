@@ -1,0 +1,40 @@
+{
+  "name": "forest-resources-manage-application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.5",
+    "@mapbox/mapbox-gl-geocoder": "^5.0.2",
+    "@vuepic/vue-datepicker": "^7.3.0",
+    "axios": "^1.6.1",
+    "core-js": "^3.8.3",
+    "date-fns": "^2.30.0",
+    "element-plus": "^2.4.2",
+    "forest-resources-manage-application": "file:",
+    "fs-extra": "^11.2.0",
+    "mapbox-gl": "^3.0.1",
+    "pinia": "^2.1.7",
+    "serve": "^14.2.1",
+    "tailwindcss": "^3.3.5",
+    "tw-elements": "^1.0.0",
+    "vue": "^3.2.13",
+    "vue-cookies": "^1.8.3",
+    "vue-echarts": "^6.6.1",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "leaflet": "^1.9.4"
+  }
+}
